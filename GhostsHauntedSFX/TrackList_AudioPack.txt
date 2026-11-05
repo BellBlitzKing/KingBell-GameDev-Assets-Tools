@@ -1,91 +1,85 @@
 Ghost Sounds, Dark Winds and Haunted SFX 🎃👻
 https://kingbell.itch.io/ghost-sounds-dark-winds-haunted-sfx
 
-GhostsHauntedSFX
-Ghost Alerted Approaching - 4 sec.mp3
-Ghost Close Moving Whispers - 9 sec.mp3
-Ghost Danger Stalking Move - 7 sec.mp3
-Ghost Defeat Death Fade - 3 sec.mp3
-Ghost Loud Close Scary - 6 sec.mp3
-Ghost Talk Hunting Raspy - 4 sec.mp3
-Ghost Warp Teleport Phase - 3 sec.mp3
+Sounds Effects Audio SFX Track list:
 
-HD Ghosts Breathing Long - 9 sec.mp3
-HD Ghosts Close Warping - 6 sec.mp3
-HD Ghosts Danger Alerted Long - 12 sec.mp3
-HD Ghosts Flyby Fade Move - 5 sec.mp3
-HD Ghosts Haunting Long Winds - 17 sec.mp3
-HD Ghosts Hunting Stalking - 9 sec.mp3
-HD Ghosts Rumbling Deadly - 11 sec.mp3
-HD Ghosts Talk Close Eerie - 8 sec.mp3
-
-Metal Wind Eerie Blowing - 16 sec.mp3
-Metal Wind End Burst Drop - 12 sec.mp3
-Metal Wind End Silent Fade - 11 sec.mp3
-Metal Wind Gust Up Burst - 6 sec.mp3
-Metal Wind In Space Constant - 14 sec.mp3
-Metal Wind Long Soft Constant - 33 sec.mp3
-Metal Wind Long Underwater - 22 sec.mp3
-Metal Wind Loop Ambience Background - 43 sec.mp3
-Metal Wind Loud Screech Fade - 21 sec.mp3
-Metal Wind Painful Screech Echos - 28 sec.mp3
-Metal Wind Screech Fading - 16 sec.mp3
-Metal Wind Short Turbine - 4 sec.mp3
-Metal Wind Slow Building - 8 sec.mp3
-
-Haunted Winds Ambience Low - 4 sec.mp3
-Haunted Winds Blowing Up - 6 sec.mp3
-Haunted Winds Chime Screech - 3 sec.mp3
-Haunted Winds Deep Heavy - 4 sec.mp3
-Haunted Winds Dementors - 9 sec.mp3
-Haunted Winds Gust Far - 3 sec.mp3
-Haunted Winds Spooky Fade - 3 sec.mp3
-Haunted Winds Whispers Slow - 6 sec.mp3
-Haunted Winds Whistle Fast - 12 sec.mp3
-
-Dry Winds Constant Background - 6 sec.mp3
-Dry Winds Dead Stream Fade - 5 sec.mp3
-Dry Winds Eerie Blowing - 10 sec.mp3
-Dry Winds Eerie Strong Gust - 6 sec.mp3
-Dry Winds Graveyard Breeze - 9 sec.mp3
-Dry Winds Long Growing Fade - 9 sec.mp3
-Dry Winds Long Turbine Gusts - 10 sec.mp3
-Dry Winds Loud Whistling Gust - 6 sec.mp3
-Dry Winds Lower Soft Push - 8 sec.mp3
-Dry Winds Push Whistle - 5 sec.mp3
-Dry Winds Strong Bustling - 10 sec.mp3
-
-Space Wind Constant Hums - 15 sec.mp3
-Space Wind Eerie Whale - 25 sec.mp3
-Space Wind Ghost Echoes - 14 sec.mp3
-Space Wind Growing Hums - 20 sec.mp3
-Space Wind Loop Ambience Background - 26 sec.mp3
-Space Wind Loud Echoes - 15 sec.mp3
-Space Wind Low Blowing Hums - 22 sec.mp3
-Space Wind Soft Constant Fade - 23 sec.mp3
-Space Wind Soft Gusting Hums - 12 sec.mp3
-Space Wind Whale Echoes - 26 sec.mp3
-
-Hollow Wind Constant - 5 sec.mp3
-Hollow Wind Eerie Whistle - 3 sec.mp3
-Hollow Wind Slow Fade - 5 sec.mp3
-Hollow Wind Slow Short - 5 sec.mp3
-Hollow Wind Soft Short - 2 sec.mp3
-Hollow Wind Spooky Whistle - 4 sec.mp3
-Hollow Wind Strong Gusts - 5 sec.mp3
-Hollow Wind Strong Whistle - 4 sec.mp3
-Hollow Winds Burst Fast - 3 sec.mp3
-Hollow Winds Gust Fast - 3 sec.mp3
-Hollow Winds Short Fast - 3 sec.mp3
-
-Night Wind Disappear Short - 3 sec.mp3
-Night Wind Eerie Breeze - 6 sec.mp3
-Night Wind Fly Gust Fade - 5 sec.mp3
-Night Wind Flyby Float Soft - 4 sec.mp3
-Night Wind Loop Background - 6 sec.mp3
-Night Wind Rush Smokey - 4 sec.mp3
-Night Wind Slow Build Gust - 7 sec.mp3
-Night Wind Soft Constant - 4 sec.mp3
-Night Wind Strong Blowing - 7 sec.mp3
-Night Wind Whistle Constant Background - 7 sec.mp3
-Night Wind Whistle Soft - 4 sec.mp3
+# 01) Ghost Warp Teleport Phase - 3 sec.
+# 02) Ghost Defeat Death Fade - 3 sec.
+# 03) Ghost Alerted Approaching - 4 sec.
+# 04) Ghost Talk Hunting Raspy - 4 sec.
+# 05) Ghost Loud Close Scary - 6 sec.
+# 06) Ghost Danger Stalking Move - 7 sec.
+# 07) Ghost Close Moving Whispers - 9 sec.
+# 08) HD Ghosts Flyby Fade Move - 5 sec.
+# 09) HD Ghosts Close Warping - 6 sec.
+# 10) HD Ghosts Talk Close Eerie - 8 sec.
+# 11) HD Ghosts Hunting Stalking - 9 sec.
+# 12) HD Ghosts Breathing Long - 9 sec.
+# 13) HD Ghosts Rumbling Deadly - 11 sec.
+# 14) HD Ghosts Danger Alerted Long - 12 sec.
+# 15) HD Ghosts Haunting Long Winds - 17 sec.
+# 16) Metal Wind Short Turbine - 4 sec.
+# 17) Metal Wind Gust Up Burst - 6 sec.
+# 18) Metal Wind Slow Building - 8 sec.
+# 19) Metal Wind End Silent Fade - 11 sec.
+# 20) Metal Wind End Burst Drop - 12 sec.
+# 21) Metal Wind In Space Constant - 14 sec.
+# 22) Metal Wind Eerie Blowing - 16 sec.
+# 23) Metal Wind Screech Fading - 16 sec.
+# 24) Metal Wind Loud Screech Fade - 21 sec.
+# 25) Metal Wind Long Underwater - 22 sec.
+# 26) Metal Wind Painful Screech Echos - 28 sec.
+# 27) Metal Wind Long Soft Constant - 33 sec.
+# 28) Metal Wind Loop Ambience Background - 43 sec.
+# 29) Haunted Winds Spooky Fade - 3 sec.
+# 30) Haunted Winds Gust Far - 3 sec.
+# 31) Haunted Winds Chime Screech - 3 sec.
+# 32) Haunted Winds Deep Heavy - 4 sec.
+# 33) Haunted Winds Ambience Low - 4 sec.
+# 34) Haunted Winds Blowing Up - 6 sec.
+# 35) Haunted Winds Whispers Slow - 6 sec.
+# 36) Haunted Winds Dementors - 9 sec.
+# 37) Haunted Winds Whistle Fast - 12 sec.
+# 38) Dry Winds Dead Stream Fade - 5 sec.
+# 39) Dry Winds Push Whistle - 5 sec.
+# 40) Dry Winds Eerie Strong Gust - 6 sec.
+# 41) Dry Winds Loud Whistling Gust - 6 sec.
+# 42) Dry Winds Constant Background - 6 sec.
+# 43) Dry Winds Lower Soft Push - 8 sec.
+# 44) Dry Winds Graveyard Breeze - 9 sec.
+# 45) Dry Winds Long Growing Fade - 9 sec.
+# 46) Dry Winds Eerie Blowing - 10 sec.
+# 47) Dry Winds Strong Bustling - 10 sec.
+# 48) Dry Winds Long Turbine Gusts - 10 sec.
+# 49) Space Wind Soft Gusting Hums - 12 sec.
+# 50) Space Wind Ghost Echoes - 14 sec.
+# 51) Space Wind Loud Echoes - 15 sec.
+# 52) Space Wind Constant Hums - 15 sec.
+# 53) Space Wind Growing Hums - 20 sec.
+# 54) Space Wind Low Blowing Hums - 22 sec.
+# 55) Space Wind Soft Constant Fade - 23 sec.
+# 56) Space Wind Eerie Whale - 25 sec.
+# 57) Space Wind Whale Echoes - 26 sec.
+# 58) Space Wind Loop Ambience Background - 26 sec.
+# 59) Hollow Wind Soft Short - 2 sec.
+# 60) Hollow Wind Eerie Whistle - 3 sec.
+# 61) Hollow Winds Gust Fast - 3 sec.
+# 62) Hollow Winds Burst Fast - 3 sec.
+# 63) Hollow Winds Short Fast - 3 sec.
+# 64) Hollow Wind Spooky Whistle - 4 sec.
+# 65) Hollow Wind Strong Whistle - 4 sec.
+# 66) Hollow Wind Slow Fade - 5 sec.
+# 67) Hollow Wind Slow Short - 5 sec.
+# 68) Hollow Wind Strong Gusts - 5 sec.
+# 69) Hollow Wind Constant - 5 sec.
+# 70) Night Wind Disappear Short - 3 sec.
+# 71) Night Wind Flyby Float Soft - 4 sec.
+# 72) Night Wind Rush Smokey - 4 sec.
+# 73) Night Wind Soft Constant - 4 sec.
+# 74) Night Wind Whistle Soft - 4 sec.
+# 75) Night Wind Fly Gust Fade - 5 sec.
+# 76) Night Wind Eerie Breeze - 6 sec.
+# 77) Night Wind Loop Background - 6 sec.
+# 78) Night Wind Slow Build Gust - 7 sec.
+# 79) Night Wind Strong Blowing - 7 sec.
+# 80) Night Wind Whistle Constant Background - 7 sec.
